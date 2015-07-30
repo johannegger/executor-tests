@@ -62,5 +62,8 @@ object Global extends GlobalSettings{
       }
     }
   }
+  
+  Some("").get
+  Option("").get
 
 }
